@@ -3,7 +3,8 @@
   <types>
     <members>DreamHouseSampleDataController</members>
     <members>DreamHouseSampleDataControllerTest</members>
-    <name>ApexClass</name>
+    <name>
+    ApexClass</name>
   </types>
   <types>
     <members>DreamHouseSampleData</members>
